@@ -95,4 +95,4 @@ def areacalculation(request):
 ## OUTPUT:
 ![](WebEX9.png)
 ## Result:
-
+Therefor the above codes are successfully executed to run server side programming and do mathematical calcualtions and it is published in the following url.
